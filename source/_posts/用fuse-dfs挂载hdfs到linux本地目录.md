@@ -1,3 +1,11 @@
+---
+title: 用fuse-dfs挂载hdfs到linux本地目录
+date: 2012-07-6 09:18:54
+updated: 2012-07-6 09:18:54
+tags: [hadoop,hdfs,大数据,mapreduce]
+categories: hadoop
+---
+
 > #### 用fuse-dfs挂载hdfs到linux本地目录
 > ##### 需要的组件
 
