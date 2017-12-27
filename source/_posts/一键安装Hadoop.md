@@ -1,7 +1,7 @@
 ---
 title: 一键安装Hadoop
-date: 2012-05-28 10:18:54
-updated: 2012-05-28 15:38:00
+date: 2012-10-28 10:18:54
+updated: 2012-10-28 15:38:00
 tags: [hadoop,hdfs,大数据,mapreduce]
 categories: hadoop
 top: 10
